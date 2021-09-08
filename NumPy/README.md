@@ -50,3 +50,20 @@ final_array = array_1 [(array_1 > m) & (array_1 < n)]#start writing your code fr
 print(final_array)
 ```
 [practice ipynb file 1](https://github.com/sdhanraaj12/NumPy-Panda/blob/master/NumPy/3.ipynb)                                                     
+
+## Multidimensional Arrays
+                                                           
+[refrence ipynb file 4](https://github.com/sdhanraaj12/NumPy-Panda/blob/master/NumPy/4.ipynb)                                                     
+                                                           
+NumPy arrays have certain features that help in analysing multidimensional arrays. Some features are as follows:
+
+shape: It represents the shape of an array as the number of elements in each dimension.
+ndim: It represents the number of dimensions of an array. For a 2D array, ndim = 2.
+Similar to 1D arrays, nD arrays can also operate on individual elements without using list comprehensions or loops   
+                                                           
+[bradcasting further details](https://numpy.org/doc/stable/user/basics.broadcasting.html)
+
+In NumPy, the dimension is called axis. In NumPy terminology, for 2-D arrays:
+
+axis = 0 - refers to the rows
+axis = 1 - refers to the columns
