@@ -21,11 +21,11 @@ The only difference between a NumPy array and a list is that the elements in the
 
 Another feature of NumPy arrays is that they are homogeneous in nature. By homogenous, we mean that all the elements in a NumPy array have to be of the same data type, which could be an integer, float, string, etc.
   
-[test codes](https://github.com/sdhanraaj12/NumPy-Panda/blob/master/NumPy/1.ipynb "1")
+[refrence ipynb file 1](https://github.com/sdhanraaj12/NumPy-Panda/blob/master/NumPy/1.ipynb "1")
 
 ## Operations Over 1-D Arrays
   
-[test codes](https://github.com/sdhanraaj12/NumPy-Panda/blob/master/NumPy/2.ipynb)
+[refrence ipynb file 2](https://github.com/sdhanraaj12/NumPy-Panda/blob/master/NumPy/2.ipynb)
   
 > Q1. Extracting Elements from Array
 >> Description
@@ -49,4 +49,4 @@ final_array = array_1 [(array_1 > m) & (array_1 < n)]#start writing your code fr
 
 print(final_array)
 ```
-                                                        
+[refrence ipynb file 3](https://github.com/sdhanraaj12/NumPy-Panda/blob/master/NumPy/3.ipynb)                                                     
