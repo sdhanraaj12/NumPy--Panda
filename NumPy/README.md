@@ -49,4 +49,4 @@ final_array = array_1 [(array_1 > m) & (array_1 < n)]#start writing your code fr
 
 print(final_array)
 ```
-[refrence ipynb file 3](https://github.com/sdhanraaj12/NumPy-Panda/blob/master/NumPy/3.ipynb)                                                     
+[practice ipynb file 1](https://github.com/sdhanraaj12/NumPy-Panda/blob/master/NumPy/3.ipynb)                                                     
